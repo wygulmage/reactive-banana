@@ -77,6 +77,8 @@ Library
                         Reactive.Banana.Prim.Types,
                         Reactive.Banana.Prim.Util,
                         Reactive.Banana.Types
+                        Reactive.Banana.Type.Behavior
+                        Reactive.Banana.Type.Event
 
 Test-Suite tests
     default-language:   Haskell98

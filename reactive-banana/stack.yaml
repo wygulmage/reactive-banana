@@ -1,4 +1,3 @@
-# GHC-8.0.2
-resolver: lts-8.11
+resolver: lts-14.0
 packages:
 - '.'
